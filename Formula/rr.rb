@@ -1,4 +1,4 @@
-class Tle < Formula
+class Rr < Formula
   desc "CLI for managing a local Redis cluster"
   homepage "https://github.com/austinpgraham/rusty-redis"
   url "https://github.com/austinpgraham/rusty-redis/releases/download/v0.1.0/rr-0.1.0-x86_64-apple-darwin.tar.gz"
